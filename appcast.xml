@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>EdgePlayer</title>
+        <item>
+            <title>0.2.1</title>
+            <pubDate>Sat, 17 Oct 2026 15:34:50 -0300</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/fabioov/EdgePlayer-Releases/releases/download/v0.2.1/EdgePlayer-0.2.1.dmg" length="2098583" type="application/octet-stream" sparkle:edSignature="bUS/dt4feaomDdgS6VvpyRxwBKolwL0t1cfaSWbtrS15BbrYaVNKOR/vRVELZKQXBAagS6iXeNf1G4tjpXZ4DA=="/>
+        </item>
+    </channel>
+</rss>
