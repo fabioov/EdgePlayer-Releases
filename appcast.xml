@@ -3,12 +3,36 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Sun, 18 Oct 2026 21:32:48 -0300</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Widget do Centro de Notificações: o que está tocando, com play/pause, anterior e próximo.
+- Seletor de idioma em Ajustes (Sistema, Português, English e Español), com troca na hora.
+- Quem está tocando fica no topo da gaveta; os pausados ficam abaixo. Os cards deslizam quando a ordem muda.
+- Atalhos de teclado na gaveta: 1 a 9 dão play/pause no card, Esc fecha.
+- Modo reunião: pausa os players quando o microfone entra em uso e retoma ao terminar (opcional).
+- Equalizador discreto no card que está tocando (opcional; respeita Reduzir movimento).
+- Boas-vindas no primeiro uso e status "Extensão conectada" por navegador, com Opera na lista.
+- Diagnóstico em Ajustes e relatório de suporte por e-mail, sem dados das faixas.
+- VLC com volume e mudo. Safari com resposta mais rápida com a gaveta aberta.
+- Gaveta de cima fica abaixo do notch e não pisca mais. Acessibilidade (VoiceOver, Reduzir movimento).
+- Licença: teste grátis de 14 dias e compra única. Quem já tem uma chave ativa em Ajustes → Licença (ou pelo link edgeplayer://activate).
+- Ícone novo: dois retângulos com play, igual ao da barra de menus.
+]]></description>
+            <enclosure url="https://github.com/fabioov/EdgePlayer-Releases/releases/download/v0.4.0/EdgePlayer-0.4.0.dmg" length="3150682" type="application/octet-stream" sparkle:edSignature="fpCKXnQNuXFxMcqx968sMPQDWXmi/iZcuSAjP2OGu0C+u42UKDpRdh57wKCAWd5poplEleYGy3TTQdFU6c4wDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/fabioov/EdgePlayer-Releases/releases/download/v0.4.0/EdgePlayer4-2.delta" sparkle:deltaFrom="2" length="997842" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kJnzLHEItFTeQXb41aX08HhYusqs+UioBXViKhIu+/lKBOL4EnQ1md1BQdTijl6NUXScL02q9GD2D9GA+pLEBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Sat, 17 Oct 2026 15:34:50 -0300</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/fabioov/EdgePlayer-Releases/releases/download/v0.2.1/EdgePlayer-0.2.1.dmg" length="2098583" type="application/octet-stream" sparkle:edSignature="bUS/dt4feaomDdgS6VvpyRxwBKolwL0t1cfaSWbtrS15BbrYaVNKOR/vRVELZKQXBAagS6iXeNf1G4tjpXZ4DA=="/>
+            <enclosure url="https://github.com/fabioov/EdgePlayer-Releases/releases/download/v0.4.0/EdgePlayer-0.2.1.dmg" length="2098583" type="application/octet-stream" sparkle:edSignature="bUS/dt4feaomDdgS6VvpyRxwBKolwL0t1cfaSWbtrS15BbrYaVNKOR/vRVELZKQXBAagS6iXeNf1G4tjpXZ4DA=="/>
         </item>
     </channel>
 </rss>
