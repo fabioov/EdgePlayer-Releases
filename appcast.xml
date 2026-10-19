@@ -3,6 +3,16 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.7.2</title>
+            <pubDate>Mon, 19 Oct 2026 18:03:22 -0300</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Pomodoro:** novo botão − na gaveta para encurtar a fase (o + adia), agora de 1 em 1 minuto por clique (configurável em Ajustes → Pomodoro). O − não deixa a fase acabar sem querer: para com menos de 5 segundos.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.2/Limen-0.7.2.dmg" length="3719073" type="application/octet-stream" sparkle:edSignature="qY1b8xTsrBBvr/ev+AAy6EI6ekWdOzBFFvx+4RZUEgLEo3uTth/T8iWeLhbUIL/tzE3/C7sRUAsYDJDY2wt5Cg=="/>
+        </item>
+        <item>
             <title>0.7.1</title>
             <pubDate>Mon, 19 Oct 2026 17:28:59 -0300</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -10,7 +20,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Gaveta em monitor externo:** corrigido o abre-e-fecha sem parar quando o mouse ficava na borda que encosta em outro monitor. O gatilho agora cobre só o trecho onde a gaveta aparece (como no monitor do Mac), a gaveta não fecha enquanto o mouse está nessa faixa e, depois de fechar, só reabre quando o mouse sair dela.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.1/Limen-0.7.1.dmg" length="3715787" type="application/octet-stream" sparkle:edSignature="NoU3Js1BB3u2dY/6MpOx0CY0WvZn1UczGX2oNipkP3OtzypoTpDf+BflMWyzVGKbc2PsM3B1iUrbPXAyL5g6CQ=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.2/Limen-0.7.1.dmg" length="3715787" type="application/octet-stream" sparkle:edSignature="NoU3Js1BB3u2dY/6MpOx0CY0WvZn1UczGX2oNipkP3OtzypoTpDf+BflMWyzVGKbc2PsM3B1iUrbPXAyL5g6CQ=="/>
         </item>
         <item>
             <title>0.7.0</title>
@@ -23,17 +33,7 @@
 - **Insomnio:** modo "só o Mac" (a tela pode apagar), liga sozinho enquanto certos apps estiverem abertos e em chamadas, desliga com bateria baixa ou fora de um horário (e avisa), e o tempo restante na barra de menus.
 - **Barra de menus:** o item não muda mais de tamanho a cada segundo (o Pomodoro pausado ganha as barras de pausa) e o menu não perde o item sob o mouse enquanto o relógio anda.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.1/Limen-0.7.0.dmg" length="3715057" type="application/octet-stream" sparkle:edSignature="CAE1Ep3+b9UvfrgPM3om7uwg7KF4WyxdkRg9ABEqrPyuuBMr3E5Lo2udQkc2dg77chMvfqB/1ChmSyuEhmbLBg=="/>
-        </item>
-        <item>
-            <title>0.6.0</title>
-            <pubDate>Mon, 19 Oct 2026 15:31:27 -0300</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **QuickTime Player** vira fonte de mídia: um card por vídeo aberto, com play/pausa, seek, volume e mudo. "Anterior" volta ao início do vídeo e arrastar o card fecha só aquele vídeo (o app continua aberto). Gravações de tela e de áudio não aparecem. Ajustes → Fontes liga e desliga; o macOS pede a permissão de Automação na primeira vez.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.1/Limen-0.6.0.dmg" length="3435598" type="application/octet-stream" sparkle:edSignature="JHX70ZRM9O/8ybeinx+Q4e6tL/XZHgfZm/Rg2vfXx8sXEi844t0BSvQckLQI1k46SuMLr8TWqBkjKHDOMbI+Bg=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.2/Limen-0.7.0.dmg" length="3715057" type="application/octet-stream" sparkle:edSignature="CAE1Ep3+b9UvfrgPM3om7uwg7KF4WyxdkRg9ABEqrPyuuBMr3E5Lo2udQkc2dg77chMvfqB/1ChmSyuEhmbLBg=="/>
         </item>
     </channel>
 </rss>
