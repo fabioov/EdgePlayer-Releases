@@ -3,33 +3,20 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
-            <title>0.4.0</title>
-            <pubDate>Sun, 18 Oct 2026 21:32:48 -0300</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <title>0.5.0</title>
+            <pubDate>Mon, 19 Oct 2026 14:55:00 -0300</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Widget do Centro de Notificações: o que está tocando, com play/pause, anterior e próximo.
-- Seletor de idioma em Ajustes (Sistema, Português, English e Español), com troca na hora.
-- Quem está tocando fica no topo da gaveta; os pausados ficam abaixo. Os cards deslizam quando a ordem muda.
-- Atalhos de teclado na gaveta: 1 a 9 dão play/pause no card, Esc fecha.
-- Modo reunião: pausa os players quando o microfone entra em uso e retoma ao terminar (opcional).
-- Equalizador discreto no card que está tocando (opcional; respeita Reduzir movimento).
-- Boas-vindas no primeiro uso e status "Extensão conectada" por navegador, com Opera na lista.
-- Diagnóstico em Ajustes e relatório de suporte por e-mail, sem dados das faixas.
-- VLC com volume e mudo. Safari com resposta mais rápida com a gaveta aberta.
-- Gaveta de cima fica abaixo do notch e não pisca mais. Acessibilidade (VoiceOver, Reduzir movimento).
-- Licença: teste grátis de 14 dias e compra única. Quem já tem uma chave ativa em Ajustes → Licença (ou pelo link edgeplayer://activate).
-- Ícone novo: dois retângulos com play, igual ao da barra de menus.
+            <description sparkle:format="markdown"><![CDATA[- **Novo nome: Limen.** O EdgePlayer virou Limen, porque agora é mais que um player. Ícone novo (e da barra de menus). As extensões de navegador continuam EdgePlayer Bridge.
+- **Pomodoro** na gaveta, na barra de menus e por atalho (⌥⌘T, ⌥⌘S, ⌥⌘R): foco, pausa curta e longa, a música pausa nas pausas e volta no foco (configurável), com aviso a cada troca. Ajustes → Pomodoro.
+- **Tarefas** do app Lembretes na gaveta, nos dois sentidos: campo "Nova tarefa" sempre à mostra, concluir, reabrir, editar, data, excluir e focar numa tarefa. As tarefas novas nascem para hoje. Ajustes → Tarefas (pede permissão de Lembretes).
+- **Insomnio:** mantém a tela e o Mac acordados, por um tempo ou sem limite (gaveta, menu da barra ou ⌥⌘A). Desliga ao pôr o Mac para dormir.
+- Com Tarefas ligadas, a gaveta abre com o foco no campo "Nova tarefa" (as teclas 1 a 9 passam a digitar).
+- Ajustes mais larga, para as 9 abas aparecerem.
+- Atualização: o Limen é um app novo para o macOS (outro identificador). Instale o Limen e apague o EdgePlayer; os ajustes e o histórico são trazidos na primeira abertura, mas as permissões (Automação, Lembretes, notificações) são pedidas de novo e o teste de 14 dias recomeça (se você tinha uma licença, cole a chave de novo em Ajustes → Licença). Links `edgeplayer://activate` de licenças antigas continuam funcionando.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/EdgePlayer-Releases/releases/download/v0.4.0/EdgePlayer-0.4.0.dmg" length="3150682" type="application/octet-stream" sparkle:edSignature="fpCKXnQNuXFxMcqx968sMPQDWXmi/iZcuSAjP2OGu0C+u42UKDpRdh57wKCAWd5poplEleYGy3TTQdFU6c4wDQ=="/>
-        </item>
-        <item>
-            <title>0.2.1</title>
-            <pubDate>Sat, 17 Oct 2026 15:34:50 -0300</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/fabioov/EdgePlayer-Releases/releases/download/v0.2.1/EdgePlayer-0.2.1.dmg" length="2098583" type="application/octet-stream" sparkle:edSignature="bUS/dt4feaomDdgS6VvpyRxwBKolwL0t1cfaSWbtrS15BbrYaVNKOR/vRVELZKQXBAagS6iXeNf1G4tjpXZ4DA=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.5.0/Limen-0.5.0.dmg" length="3426272" type="application/octet-stream" sparkle:edSignature="HX6DReCSmgFoO1SLF7yqln0ckmlZEeVV26eXQPkI3X52dpq8ZTM++kpA8nxqvvc6e0NOcA67suVPFo+YUGrPBA=="/>
         </item>
     </channel>
 </rss>
