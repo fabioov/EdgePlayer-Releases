@@ -3,6 +3,19 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.7.0</title>
+            <pubDate>Mon, 19 Oct 2026 17:01:54 -0300</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Pomodoro:** aviso de pausa que não interrompe, uma pílula num canto da tela com borda animada e som (áudio e visual se ligam separados; canto, tempo, sons e volume configuráveis). Aviso discreto antes do fim do foco, botão e atalho (⌥⌘E) para adiar a fase, sugestões do que fazer na pausa e estatísticas (hoje, 7 dias e sequência de dias). Opção de manter o Mac acordado no foco e de rodar atalhos do app Atalhos (por exemplo, ligar o Foco do macOS). Os Ajustes do Pomodoro agora têm seções que abrem e fecham.
+- **Tarefas:** datas no texto ("ligar pro João amanhã 15h", em português, inglês e espanhol), prioridade (com ordenação opcional), estimativa de pomodoros e tempo focado por tarefa, a próxima tarefa entra em foco ao concluir a atual e um campo rápido de nova tarefa em qualquer app (⌥⌘N).
+- **Insomnio:** modo "só o Mac" (a tela pode apagar), liga sozinho enquanto certos apps estiverem abertos e em chamadas, desliga com bateria baixa ou fora de um horário (e avisa), e o tempo restante na barra de menus.
+- **Barra de menus:** o item não muda mais de tamanho a cada segundo (o Pomodoro pausado ganha as barras de pausa) e o menu não perde o item sob o mouse enquanto o relógio anda.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.0/Limen-0.7.0.dmg" length="3715057" type="application/octet-stream" sparkle:edSignature="CAE1Ep3+b9UvfrgPM3om7uwg7KF4WyxdkRg9ABEqrPyuuBMr3E5Lo2udQkc2dg77chMvfqB/1ChmSyuEhmbLBg=="/>
+        </item>
+        <item>
             <title>0.6.0</title>
             <pubDate>Mon, 19 Oct 2026 15:31:27 -0300</pubDate>
             <sparkle:version>6</sparkle:version>
@@ -10,7 +23,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **QuickTime Player** vira fonte de mídia: um card por vídeo aberto, com play/pausa, seek, volume e mudo. "Anterior" volta ao início do vídeo e arrastar o card fecha só aquele vídeo (o app continua aberto). Gravações de tela e de áudio não aparecem. Ajustes → Fontes liga e desliga; o macOS pede a permissão de Automação na primeira vez.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.6.0/Limen-0.6.0.dmg" length="3435598" type="application/octet-stream" sparkle:edSignature="JHX70ZRM9O/8ybeinx+Q4e6tL/XZHgfZm/Rg2vfXx8sXEi844t0BSvQckLQI1k46SuMLr8TWqBkjKHDOMbI+Bg=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.0/Limen-0.6.0.dmg" length="3435598" type="application/octet-stream" sparkle:edSignature="JHX70ZRM9O/8ybeinx+Q4e6tL/XZHgfZm/Rg2vfXx8sXEi844t0BSvQckLQI1k46SuMLr8TWqBkjKHDOMbI+Bg=="/>
         </item>
         <item>
             <title>0.5.0</title>
@@ -26,7 +39,7 @@
 - Ajustes mais larga, para as 9 abas aparecerem.
 - Atualização: o Limen é um app novo para o macOS (outro identificador). Instale o Limen e apague o EdgePlayer; os ajustes e o histórico são trazidos na primeira abertura, mas as permissões (Automação, Lembretes, notificações) são pedidas de novo e o teste de 14 dias recomeça (se você tinha uma licença, cole a chave de novo em Ajustes → Licença). Links `edgeplayer://activate` de licenças antigas continuam funcionando.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.6.0/Limen-0.5.0.dmg" length="3426272" type="application/octet-stream" sparkle:edSignature="HX6DReCSmgFoO1SLF7yqln0ckmlZEeVV26eXQPkI3X52dpq8ZTM++kpA8nxqvvc6e0NOcA67suVPFo+YUGrPBA=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.0/Limen-0.5.0.dmg" length="3426272" type="application/octet-stream" sparkle:edSignature="HX6DReCSmgFoO1SLF7yqln0ckmlZEeVV26eXQPkI3X52dpq8ZTM++kpA8nxqvvc6e0NOcA67suVPFo+YUGrPBA=="/>
         </item>
     </channel>
 </rss>
