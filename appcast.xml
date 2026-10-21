@@ -3,6 +3,17 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.7.7</title>
+            <pubDate>Wed, 21 Oct 2026 14:48:16 -0300</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.7.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Barra de menus:** cada parte agora tem uma função com o clique esquerdo. Relógio: pausa e continua o Pomodoro, com o círculo do botão se desenhando como um cronômetro. Ícone do Insomnio: liga e desliga. Origem (Music, Spotify…): mostra por 4 segundos a faixa e o artista que estão tocando. O ícone do Limen abre o menu.
+- **Insomnio:** o ícone na barra de menus ficou nítido, sem o aspecto embaçado.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.7/Limen-0.7.7.dmg" length="3740651" type="application/octet-stream" sparkle:edSignature="+0QkYZhkl/YlMEbHkSDBRxiVoGOn9ql7jrv3VPCqeYRjkFpoddlmtlmlt5qzbbAdZHz/rzDiVwGTWUgITK6cDA=="/>
+        </item>
+        <item>
             <title>0.7.6</title>
             <pubDate>Wed, 21 Oct 2026 14:19:48 -0300</pubDate>
             <sparkle:version>13</sparkle:version>
@@ -12,7 +23,7 @@
 - **Insomnio:** dá para ligar e desligar clicando no ícone dele na barra de menus; o clique direito abre as durações. Um ajuste novo escolhe se o ícone fica sempre na barra ou só enquanto está ligado.
 - **Ajustes:** o Insomnio ganhou uma aba própria, com todas as suas opções.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.6/Limen-0.7.6.dmg" length="3733236" type="application/octet-stream" sparkle:edSignature="KnqroAnpVqudg562oUIts8h00okXqyi9w66BJmeAoqeHJwWR+id3ffgjd/XbdfQtboZ7160ohGHEj/183t3QCw=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.7/Limen-0.7.6.dmg" length="3733236" type="application/octet-stream" sparkle:edSignature="KnqroAnpVqudg562oUIts8h00okXqyi9w66BJmeAoqeHJwWR+id3ffgjd/XbdfQtboZ7160ohGHEj/183t3QCw=="/>
         </item>
         <item>
             <title>0.7.5</title>
@@ -23,19 +34,7 @@
             <description sparkle:format="markdown"><![CDATA[- **Barra de menus:** ícone, relógio do Pomodoro, Insomnio e a faixa tocando agora ficam num item só, dentro de uma moldura, separados por pontos. Clicar no relógio pausa ou continua o Pomodoro, e o clique direito nele abre Pular e Reiniciar. Sem nada ao lado, só o ícone aparece, sem moldura.
 - **Gaveta:** passar o mouse na borda funciona logo depois de clicar no item da barra de menus, sem precisar clicar em outro lugar antes.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.6/Limen-0.7.5.dmg" length="3723191" type="application/octet-stream" sparkle:edSignature="mgUICmcB3hkGoqa+C82qeW0PAkBNoW90EHjeHvpCNsO33xojVfSiRgTkpm0cdB8TAU39Uppziov+jbf0sAbzBA=="/>
-        </item>
-        <item>
-            <title>0.7.4</title>
-            <pubDate>Wed, 21 Oct 2026 11:19:44 -0300</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>0.7.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Barra de menus:** o relógio do Pomodoro ganhou um botão ▶/⏸ ao lado, num item próprio e independente do ícone do Limen: um clique pausa ou continua, e o clique direito abre Pular e Reiniciar.
-- **Aviso de pausa:** aparece em todos os monitores, com som mais forte tocado 3 vezes, depois que a música pausa.
-- **Gaveta:** quando o navegador está aberto mas a extensão não está conectada, a gaveta avisa em vez de ficar sem o card do vídeo.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.6/Limen-0.7.4.dmg" length="3720962" type="application/octet-stream" sparkle:edSignature="PuUkHAz1eHtjlfnin/bzLROO3yUryhJ4gdhNhEk7lMDKIY4X/i7mlyKl/r83yOGJXnaDLuFRPiT4alQui2BwAg=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.7/Limen-0.7.5.dmg" length="3723191" type="application/octet-stream" sparkle:edSignature="mgUICmcB3hkGoqa+C82qeW0PAkBNoW90EHjeHvpCNsO33xojVfSiRgTkpm0cdB8TAU39Uppziov+jbf0sAbzBA=="/>
         </item>
     </channel>
 </rss>
