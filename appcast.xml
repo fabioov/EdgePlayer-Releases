@@ -3,6 +3,18 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.7.4</title>
+            <pubDate>Wed, 21 Oct 2026 11:19:44 -0300</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.7.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Barra de menus:** o relógio do Pomodoro ganhou um botão ▶/⏸ ao lado, num item próprio e independente do ícone do Limen: um clique pausa ou continua, e o clique direito abre Pular e Reiniciar.
+- **Aviso de pausa:** aparece em todos os monitores, com som mais forte tocado 3 vezes, depois que a música pausa.
+- **Gaveta:** quando o navegador está aberto mas a extensão não está conectada, a gaveta avisa em vez de ficar sem o card do vídeo.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.4/Limen-0.7.4.dmg" length="3720962" type="application/octet-stream" sparkle:edSignature="PuUkHAz1eHtjlfnin/bzLROO3yUryhJ4gdhNhEk7lMDKIY4X/i7mlyKl/r83yOGJXnaDLuFRPiT4alQui2BwAg=="/>
+        </item>
+        <item>
             <title>0.7.3</title>
             <pubDate>Tue, 20 Oct 2026 09:35:55 -0300</pubDate>
             <sparkle:version>10</sparkle:version>
@@ -10,7 +22,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Gaveta:** os menus de Data, Prioridade e Pomodoro das tarefas não piscam mais enquanto o Pomodoro está rodando.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.3/Limen-0.7.3.dmg" length="3733171" type="application/octet-stream" sparkle:edSignature="vl5alWFzlAf1a5uV3YSlVjXlqNujwSJRzVlJb2rjWHrMhNCt/VJIGdw/TWnu2hdd0C63+9KFLI16MCZTy+fwBw=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.4/Limen-0.7.3.dmg" length="3733171" type="application/octet-stream" sparkle:edSignature="vl5alWFzlAf1a5uV3YSlVjXlqNujwSJRzVlJb2rjWHrMhNCt/VJIGdw/TWnu2hdd0C63+9KFLI16MCZTy+fwBw=="/>
         </item>
         <item>
             <title>0.7.2</title>
@@ -20,17 +32,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Pomodoro:** novo botão − na gaveta para encurtar a fase (o + adia), agora de 1 em 1 minuto por clique (configurável em Ajustes → Pomodoro). O − não deixa a fase acabar sem querer: para com menos de 5 segundos.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.3/Limen-0.7.2.dmg" length="3719073" type="application/octet-stream" sparkle:edSignature="qY1b8xTsrBBvr/ev+AAy6EI6ekWdOzBFFvx+4RZUEgLEo3uTth/T8iWeLhbUIL/tzE3/C7sRUAsYDJDY2wt5Cg=="/>
-        </item>
-        <item>
-            <title>0.7.1</title>
-            <pubDate>Mon, 19 Oct 2026 17:28:59 -0300</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Gaveta em monitor externo:** corrigido o abre-e-fecha sem parar quando o mouse ficava na borda que encosta em outro monitor. O gatilho agora cobre só o trecho onde a gaveta aparece (como no monitor do Mac), a gaveta não fecha enquanto o mouse está nessa faixa e, depois de fechar, só reabre quando o mouse sair dela.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.3/Limen-0.7.1.dmg" length="3715787" type="application/octet-stream" sparkle:edSignature="NoU3Js1BB3u2dY/6MpOx0CY0WvZn1UczGX2oNipkP3OtzypoTpDf+BflMWyzVGKbc2PsM3B1iUrbPXAyL5g6CQ=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.4/Limen-0.7.2.dmg" length="3719073" type="application/octet-stream" sparkle:edSignature="qY1b8xTsrBBvr/ev+AAy6EI6ekWdOzBFFvx+4RZUEgLEo3uTth/T8iWeLhbUIL/tzE3/C7sRUAsYDJDY2wt5Cg=="/>
         </item>
     </channel>
 </rss>
