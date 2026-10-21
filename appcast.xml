@@ -3,6 +3,17 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.7.5</title>
+            <pubDate>Wed, 21 Oct 2026 11:41:23 -0300</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.7.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Barra de menus:** ícone, relógio do Pomodoro, Insomnio e a faixa tocando agora ficam num item só, dentro de uma moldura, separados por pontos. Clicar no relógio pausa ou continua o Pomodoro, e o clique direito nele abre Pular e Reiniciar. Sem nada ao lado, só o ícone aparece, sem moldura.
+- **Gaveta:** passar o mouse na borda funciona logo depois de clicar no item da barra de menus, sem precisar clicar em outro lugar antes.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.5/Limen-0.7.5.dmg" length="3723191" type="application/octet-stream" sparkle:edSignature="mgUICmcB3hkGoqa+C82qeW0PAkBNoW90EHjeHvpCNsO33xojVfSiRgTkpm0cdB8TAU39Uppziov+jbf0sAbzBA=="/>
+        </item>
+        <item>
             <title>0.7.4</title>
             <pubDate>Wed, 21 Oct 2026 11:19:44 -0300</pubDate>
             <sparkle:version>11</sparkle:version>
@@ -12,7 +23,7 @@
 - **Aviso de pausa:** aparece em todos os monitores, com som mais forte tocado 3 vezes, depois que a música pausa.
 - **Gaveta:** quando o navegador está aberto mas a extensão não está conectada, a gaveta avisa em vez de ficar sem o card do vídeo.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.4/Limen-0.7.4.dmg" length="3720962" type="application/octet-stream" sparkle:edSignature="PuUkHAz1eHtjlfnin/bzLROO3yUryhJ4gdhNhEk7lMDKIY4X/i7mlyKl/r83yOGJXnaDLuFRPiT4alQui2BwAg=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.5/Limen-0.7.4.dmg" length="3720962" type="application/octet-stream" sparkle:edSignature="PuUkHAz1eHtjlfnin/bzLROO3yUryhJ4gdhNhEk7lMDKIY4X/i7mlyKl/r83yOGJXnaDLuFRPiT4alQui2BwAg=="/>
         </item>
         <item>
             <title>0.7.3</title>
@@ -22,17 +33,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Gaveta:** os menus de Data, Prioridade e Pomodoro das tarefas não piscam mais enquanto o Pomodoro está rodando.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.4/Limen-0.7.3.dmg" length="3733171" type="application/octet-stream" sparkle:edSignature="vl5alWFzlAf1a5uV3YSlVjXlqNujwSJRzVlJb2rjWHrMhNCt/VJIGdw/TWnu2hdd0C63+9KFLI16MCZTy+fwBw=="/>
-        </item>
-        <item>
-            <title>0.7.2</title>
-            <pubDate>Mon, 19 Oct 2026 18:03:22 -0300</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Pomodoro:** novo botão − na gaveta para encurtar a fase (o + adia), agora de 1 em 1 minuto por clique (configurável em Ajustes → Pomodoro). O − não deixa a fase acabar sem querer: para com menos de 5 segundos.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.4/Limen-0.7.2.dmg" length="3719073" type="application/octet-stream" sparkle:edSignature="qY1b8xTsrBBvr/ev+AAy6EI6ekWdOzBFFvx+4RZUEgLEo3uTth/T8iWeLhbUIL/tzE3/C7sRUAsYDJDY2wt5Cg=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.7.5/Limen-0.7.3.dmg" length="3733171" type="application/octet-stream" sparkle:edSignature="vl5alWFzlAf1a5uV3YSlVjXlqNujwSJRzVlJb2rjWHrMhNCt/VJIGdw/TWnu2hdd0C63+9KFLI16MCZTy+fwBw=="/>
         </item>
     </channel>
 </rss>
