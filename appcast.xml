@@ -3,6 +3,16 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.8.2</title>
+            <pubDate>Fri, 23 Oct 2026 11:16:10 -0300</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Vitral:** o submenu da barra de menus agora mostra um ícone em cada posição e o atalho gravado à direita.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.8.2/Limen-0.8.2.dmg" length="3878264" type="application/octet-stream" sparkle:edSignature="vCofWmzcvOWembtT4LFa2tkYSDpQp13x27uDCrgh35xQYBL03UETc5pk1RtyLrqqAoHI/VupTA2iEKGZMSYlBQ=="/>
+        </item>
+        <item>
             <title>0.8.1</title>
             <pubDate>Thu, 22 Oct 2026 18:03:52 -0300</pubDate>
             <sparkle:version>19</sparkle:version>
@@ -10,7 +20,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Vitral:** nova opção em Ajustes > Vitral, "Maximizar ao mover para outro monitor": os atalhos de monitor anterior/próximo levam a janela já maximizada no monitor de destino.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.8.1/Limen-0.8.1.dmg" length="3869310" type="application/octet-stream" sparkle:edSignature="C1hfLTOAZYdlYmgjGnHF1z39ZX/HkSpUspAhfnX7m0IfC1LOy1y1ljeiIE5HXMkp/ckVYQvziulhUdtvMANoBg=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.8.2/Limen-0.8.1.dmg" length="3869310" type="application/octet-stream" sparkle:edSignature="C1hfLTOAZYdlYmgjGnHF1z39ZX/HkSpUspAhfnX7m0IfC1LOy1y1ljeiIE5HXMkp/ckVYQvziulhUdtvMANoBg=="/>
         </item>
         <item>
             <title>0.8.0</title>
@@ -19,18 +29,7 @@
             <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.8.1/Limen-0.8.0.dmg" length="3866618" type="application/octet-stream" sparkle:edSignature="L+ungILXrVgpBuyj4B9SMLT1MSKEvry7XxJL4dhc/Kfpr9fOF9tDMoGqux5qCaSnFSpuoJf187QFPIUuvkySAw=="/>
-        </item>
-        <item>
-            <title>0.7.10</title>
-            <pubDate>Thu, 22 Oct 2026 13:00:24 -0300</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>0.7.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Gaveta:** abre mais rápido ao passar o mouse na borda e com uma animação mais suave (mola e fade), respeitando "Reduzir movimento".
-- **Posição:** arraste o cabeçalho da gaveta aberta (ou a marca da borda) para outra borda da tela para mudar onde ela aparece.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.8.1/Limen-0.7.10.dmg" length="3759997" type="application/octet-stream" sparkle:edSignature="b1fzrzkF6582nNN3M5ubBFIKoLIvoDoIqDNmNDTFuU7JbvxpafAm1kGJs8XPvOtEDNQv0TGQ5B4/Hr+Peq0hCg=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.8.2/Limen-0.8.0.dmg" length="3866618" type="application/octet-stream" sparkle:edSignature="L+ungILXrVgpBuyj4B9SMLT1MSKEvry7XxJL4dhc/Kfpr9fOF9tDMoGqux5qCaSnFSpuoJf187QFPIUuvkySAw=="/>
         </item>
     </channel>
 </rss>
